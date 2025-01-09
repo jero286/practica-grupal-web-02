@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   
@@ -11,4 +11,13 @@
   margin-bottom: 20px;
   overflow:hidden; 
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); 
+}
+
+.carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
 }
