@@ -21,3 +21,20 @@
   width: 100%;
   height: 100%;
 }
+.decoracion {
+  ul{
+    padding: 30px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  li{
+    text-align: center;
+    list-style: none;
+    padding: 3px;
+  }
+}
+.mapa{
+  padding: 30px;
+}
