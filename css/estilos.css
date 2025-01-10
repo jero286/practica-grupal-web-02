@@ -1,4 +1,43 @@
 * {
   margin: 0;
   padding: 0;
+<<<<<<< HEAD
+=======
+  
+}
+#customCarousel{
+  max-width: 1200px; 
+  max-height: 600px; 
+  margin: 0 auto; 
+  margin-top: 20px;
+  margin-bottom: 20px;
+  overflow:hidden; 
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15); 
+}
+
+.carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+}
+.decoracion {
+  ul{
+    padding: 30px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  li{
+    text-align: center;
+    list-style: none;
+    padding: 3px;
+  }
+}
+.mapa{
+  padding: 30px;
+>>>>>>> b09a5a17cac332a2d4184c9e1648e006e406e604
 }
